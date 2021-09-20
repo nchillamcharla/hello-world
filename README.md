@@ -1,3 +1,2 @@
 # hello-world
-Testing Hello World
-Hello This is all about testing the GitHub
+Testing another pull request
